@@ -1,0 +1,45 @@
+--- 
+files: 
+  certificate: 
+    sitenbul_com_b1a15_cd5d9_1577910879_05a771f4aca948c4d263d9a774296d6d: 
+      created: '1546374879'
+      domains: 
+        - sitenbul.com
+        - mail.sitenbul.com
+        - www.sitenbul.com
+      friendly_name: Cert for “sitenbul.com”
+      id: sitenbul_com_b1a15_cd5d9_1577910879_05a771f4aca948c4d263d9a774296d6d
+      is_self_signed: 1
+      issuer.commonName: sitenbul.com
+      issuer.organizationName: ~
+      modulus: b1a152d82ef14847ed2f48c7c982de765b5d3affdc847fd3337307774fec8c8988cc2704d4a14f5e27e341d39f76cdc15bd15e27aede463ce97a43a51570499e5fcffa770e3c22fb9c370182f70dcc691d507834b65dfafa552e0b83f6930ffcb53d3b699aa253d78df49e02ef06224f0eadacbfa7a9064fef4661cffa70caed5b258f918fd5d78c99208b1e7bd6caa462adb0afe1b57f3b73ffd3fd3362cab1000c8a3caba1842e92568a9b6583e47a2d44ca35f675bc92272c7e71b7692b5d8d8bdbdbccbc753385511815d79c5bc58eee04431ed4d1994f164777e2294d80ef38b4f61ccc3b09d92a2ea127b6fb0060cf8810d808c12b549a464855dcd5d9
+      modulus_length: 2048
+      not_after: '1577910879'
+      not_before: '1546374879'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: sitenbul.com
+      validation_type: ~
+  key: 
+    b1a15_cd5d9_9c64a3e98aa4edc88efc1a1efe8d9898: 
+      created: '1546374879'
+      friendly_name: Key for “sitenbul.com”
+      id: b1a15_cd5d9_9c64a3e98aa4edc88efc1a1efe8d9898
+      modulus: b1a152d82ef14847ed2f48c7c982de765b5d3affdc847fd3337307774fec8c8988cc2704d4a14f5e27e341d39f76cdc15bd15e27aede463ce97a43a51570499e5fcffa770e3c22fb9c370182f70dcc691d507834b65dfafa552e0b83f6930ffcb53d3b699aa253d78df49e02ef06224f0eadacbfa7a9064fef4661cffa70caed5b258f918fd5d78c99208b1e7bd6caa462adb0afe1b57f3b73ffd3fd3362cab1000c8a3caba1842e92568a9b6583e47a2d44ca35f675bc92272c7e71b7692b5d8d8bdbdbccbc753385511815d79c5bc58eee04431ed4d1994f164777e2294d80ef38b4f61ccc3b09d92a2ea127b6fb0060cf8810d808c12b549a464855dcd5d9
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      b1a152d82ef14847ed2f48c7c982de765b5d3affdc847fd3337307774fec8c8988cc2704d4a14f5e27e341d39f76cdc15bd15e27aede463ce97a43a51570499e5fcffa770e3c22fb9c370182f70dcc691d507834b65dfafa552e0b83f6930ffcb53d3b699aa253d78df49e02ef06224f0eadacbfa7a9064fef4661cffa70caed5b258f918fd5d78c99208b1e7bd6caa462adb0afe1b57f3b73ffd3fd3362cab1000c8a3caba1842e92568a9b6583e47a2d44ca35f675bc92272c7e71b7692b5d8d8bdbdbccbc753385511815d79c5bc58eee04431ed4d1994f164777e2294d80ef38b4f61ccc3b09d92a2ea127b6fb0060cf8810d808c12b549a464855dcd5d9: 
+        sitenbul_com_b1a15_cd5d9_1577910879_05a771f4aca948c4d263d9a774296d6d: ~
+    subject.commonName: 
+      sitenbul.com: 
+        sitenbul_com_b1a15_cd5d9_1577910879_05a771f4aca948c4d263d9a774296d6d: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “sitenbul.com”: sitenbul_com_b1a15_cd5d9_1577910879_05a771f4aca948c4d263d9a774296d6d
+  key: 
+    friendly_name: 
+      Key for “sitenbul.com”: b1a15_cd5d9_9c64a3e98aa4edc88efc1a1efe8d9898
+    modulus: 
+      b1a152d82ef14847ed2f48c7c982de765b5d3affdc847fd3337307774fec8c8988cc2704d4a14f5e27e341d39f76cdc15bd15e27aede463ce97a43a51570499e5fcffa770e3c22fb9c370182f70dcc691d507834b65dfafa552e0b83f6930ffcb53d3b699aa253d78df49e02ef06224f0eadacbfa7a9064fef4661cffa70caed5b258f918fd5d78c99208b1e7bd6caa462adb0afe1b57f3b73ffd3fd3362cab1000c8a3caba1842e92568a9b6583e47a2d44ca35f675bc92272c7e71b7692b5d8d8bdbdbccbc753385511815d79c5bc58eee04431ed4d1994f164777e2294d80ef38b4f61ccc3b09d92a2ea127b6fb0060cf8810d808c12b549a464855dcd5d9: b1a15_cd5d9_9c64a3e98aa4edc88efc1a1efe8d9898
